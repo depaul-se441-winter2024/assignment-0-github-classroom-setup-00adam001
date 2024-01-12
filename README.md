@@ -19,7 +19,7 @@ will require basic git skills.
 
 ## My Information
 
-My name is Nishant Kashyap and my GitHub alias is 00adam01.
+My name is Nishant Kashyap and my GitHub alias is 00adam001.
 
 ## Optional Next Steps
 
